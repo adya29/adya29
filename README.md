@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Adya Shreya 👋
 
-<!--
-**adya29/adya29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical researcher with experience in molecular biology, transcriptomics, cancer genomics, and infectious disease research.
 
-Here are some ideas to get you started:
+## Research Interests
+- Transcriptomics and RNA-seq
+- Cancer Genomics
+- Host-Virus Interactions
+- Bioinformatics
+- Translational Medicine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+### Wet Lab
+- Mammalian Cell Culture
+- RNA/DNA Extraction
+- cDNA Synthesis
+- RT-qPCR
+- Cell Viability Assays
+
+### Computational
+- R
+- Linux
+- DESeq2
+- Salmon
+- FastQC
+- MultiQC
+- Seurat
+- Scanpy
+
+## Current Focus
+Developing reproducible bioinformatics workflows and pursuing PhD opportunities in genomics, computational biology, and translational medicine.
