@@ -21,12 +21,8 @@ Biomedical researcher with experience in molecular biology, transcriptomics, can
 ### Computational
 - R
 - Linux
-- DESeq2
-- Salmon
-- FastQC
-- MultiQC
-- Seurat
-- Scanpy
+- RShiny
+
 
 ## Current Focus
 Developing reproducible bioinformatics workflows and pursuing PhD opportunities in genomics, computational biology, and translational medicine.
